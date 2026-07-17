@@ -1,0 +1,11 @@
+{
+  "name": "ddi-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "vercel deploy"
+  },
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
